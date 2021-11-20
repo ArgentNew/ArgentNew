@@ -1,6 +1,7 @@
  ### Olá sou o Argent
 
 - 🔭 Estudando HTML, CSS e JavaScript 
+- 🖥 Cyber Security
 
  <div>
   <a href="https://github.com/ArgentNew">
