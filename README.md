@@ -12,7 +12,7 @@
   <img align="center" alt="Argent-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Argent-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Argent-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Argent-yoda" src="https://cdn.discordapp.com/attachments/854167198646272020/886435011107127356/baby-yoda.gif">
+  <img align="right" alt="Argent-yoda" src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif">
  </div>
 
  ##
